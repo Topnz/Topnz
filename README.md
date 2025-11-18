@@ -1,5 +1,5 @@
 # Tobias-Elkjaer-Flugt
-No description yet# 💫 About Me:
+💫 About Me:
 🔭 I’m currently studying Software Engineering at VIA University College Horsens, Denmark.<br>🤝 I’m looking for help to get better at coding and developing my skillset in software.<br>🌱 I’m currently learning HTML, CSS, JavaScript & Java programming languages.<br>💬 Ask me about anything!<br>⚡ Fun fact, I have a small caffeine addiction and work best after 11 PM...
 
 
