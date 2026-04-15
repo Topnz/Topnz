@@ -1,7 +1,8 @@
 # Tobias Elkjær Flugt
-💫 About Me:
-🔭 I’m currently studying Software Engineering at VIA University College Horsens, Denmark.<br>🤝 I’m looking for help to get better at coding and developing my skillset in software.<br>🌱 I’m currently learning HTML, CSS, JavaScript & Java programming languages.<br>💬 Ask me about anything!<br>⚡ Fun fact, I have a small caffeine addiction and work best after 11 PM...
-
+About Me:
+- I’m currently studying Software Engineering at VIA University College Horsens, Denmark.<br>
+- I’m looking for help to get better at coding and developing my skillset in software.<br>
+- I’m currently learning multiple programming languages.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Topnz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tobias.flugt.1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tobias@flugt.dk) 
@@ -22,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Topnz&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
